@@ -1,4 +1,4 @@
-# Digital Clock in VHDL
+# Digital Clock in VHDL for my Advanced Digital Circuit Design Class
 
 These are the source, testbench, and constraint files for the design of a digital clock for a seven-segment display.
 This clock displays hours, minutes, and seconds in military format (no AM or PM, hours go from 1 to 24)
